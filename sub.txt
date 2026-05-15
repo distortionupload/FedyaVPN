@@ -6,6 +6,6 @@ vless://26f79094-32f7-4a55-993b-231abb40b065@89.232.177.141:443?type=xhttp&encry
 
 vless://424e3f51-d62d-4ed8-a119-bb41076f6e2d@185.233.184.181:443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=lXsi7e24DwSKkJtalUxFDJjJrqwGY8srLllj_mEuzVE&fp=chrome&sni=www.nvidia.com&sid=cab5d8d1f2ecb838&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%231%20Fedya%20VPN-at28ixpvk
 
-vless://6bf325bd-4d22-4413-b7c5-216fe5df2def@74.119.195.26:8443?type=tcp&encryption=none&security=reality&pbk=iRmpJANOlV8gkWuh6tEPnrEzW-ClqPZVnmmHCgTgg3E&fp=chrome&sni=www.nvidia.com&sid=b4&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20%232%20Fedya%20VPN-m9u4lnis
+vless://424e3f51-d62d-4ed8-a119-bb41076f6e2d@185.233.184.181:443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=lXsi7e24DwSKkJtalUxFDJjJrqwGY8srLllj_mEuzVE&fp=chrome&sni=www.nvidia.com&sid=cab5d8d1f2ecb838&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%231%20Fedya%20VPN-at28ixpvk
 
 vless://e76aefa6-a6a0-4611-9097-66bb0bd22604@74.119.195.26:443?type=xhttp&encryption=none&path=%2Fsearch&host=&mode=auto&security=reality&pbk=KEp-FGwlGzUYcejFcJoNoOyFfJE4nFBXc6fHw_xqVzs&fp=chrome&sni=www.google.com&sid=1f4e3df17795&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20%232%20Fedya%20VPN%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2-gehv4ral
